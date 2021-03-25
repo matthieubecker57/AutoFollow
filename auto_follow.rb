@@ -11,8 +11,8 @@ require 'active_support/time'
 
 
 # Add your username and password in place of 'ENV['USERNAME']' or go and add those variables in your own .env file.
-username = 'nasapictureproject'
-password = 'Thomasmatthieuclémentmikail57'
+username = 
+password = 
 @follow_counter = 0
 @unfollow_counter = 0
 @my_followers = []
